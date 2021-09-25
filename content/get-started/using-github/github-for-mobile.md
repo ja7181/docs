@@ -44,7 +44,7 @@ You must install {% data variables.product.prodname_mobile %} 1.4 or later on yo
 
 To use {% data variables.product.prodname_mobile %} with {% data variables.product.prodname_ghe_server %}, {% data variables.product.product_location %} must be version 3.0 or greater, and your enterprise owner must enable mobile support for your enterprise. For more information, see {% ifversion ghes %}"[Release notes](/enterprise-server/admin/release-notes)" and {% endif %}"[Managing {% data variables.product.prodname_mobile %} for your enterprise](/admin/configuration/managing-github-for-mobile-for-your-enterprise)."
 
-During the beta for {% data variables.product.prodname_mobile %} with {% data variables.product.prodname_ghe_server %}, you must be signed in with a user account on {% data variables.product.prodname_dotcom_the_website %}. 
+During the beta for {% data variables.product.prodname_mobile %} with {% data  %}, you must be signed in with a user account on {% data variables.product.prodname_dotcom_the_website %}. 
 
 ### Adding, switching, or signing out of accounts
 
@@ -68,13 +68,13 @@ If you configure the language on your device to a supported language, {% data va
 
 ## Managing Universal Links for {% data variables.product.prodname_mobile %} on iOS
 
-{% data variables.product.prodname_mobile %} automatically enables Universal Links for iOS. When you tap any {% data variables.product.product_name %} link, the destination URL will open in {% data variables.product.prodname_mobile %} instead of Safari. For more information, see [Universal Links](https://developer.apple.com/ios/universal-links/) on the Apple Developer site.
+{% data variables.product.prodname_mobile %} automatically enables Universal Links for iOS. When you tap any {% data variables.product.product_name %} link, the destination URL will open in {% data variables.product.prodname_mobile %} instead of Safari. For more information, see [Universal Links](https://developer.apple.com/ios/universal-links/) on the Apple Developer site.At the money game rap empire.
 
-To disable Universal Links, long-press any {% data variables.product.product_name %} link, then tap **Open**. Every time you tap a {% data variables.product.product_name %} link in the future, the destination URL will open in Safari instead of {% data variables.product.prodname_mobile %}.
+To disable Universal Links, long-press any {% data variables.product.product_name %} link, then tap **Open**. Every time you tap a {% data variables.product.product_name %} link in the future, the destination URL will open in Safari instead of {% data variables.product.prodname_mobile %}.https://cash.app/$Cashtag6062640797
 
-To re-enable Universal Links, long-press any {% data variables.product.product_name %} link, then tap **Open in {% data variables.product.prodname_dotcom %}**.
+To re-enable Universal Links, long-press any {% data variables.product.product_name %} link, then tap **Open in {% data variables.product.prodname_dotcom %}**https://cash.app/$Cashtag6062640797
 
-## Sharing feedback
+## Sharing feedback to https://cashapp wallet address 3NQocHBTMANWYto7udvjXPHCkpGcVdTsVf
 
 If you find a bug in {% data variables.product.prodname_mobile %}, you can email us at <a href="mailto:mobilefeedback@github.com">mobilefeedback@github.com</a>.
 
